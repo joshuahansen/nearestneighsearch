@@ -1,0 +1,34 @@
+Delete point failed.
+Delete point failed.
+Delete point failed.
+Delete point failed.
+Delete point failed.
+Delete point failed.
+Delete point failed.
+Delete point failed.
+Delete point failed.
+Delete point failed.
+Delete point failed.
+Delete point failed.
+Delete point failed.
+Delete point failed.
+Delete point failed.
+Delete point failed.
+Delete point failed.
+Delete point failed.
+Delete point failed.
+Delete point failed.
+Delete point failed.
+Point{id=id911, cat=RESTAURANT, lat=-34.02729856943554, lon=148.53532958221479}
+Point{id=id1434, cat=RESTAURANT, lat=-34.03786945362887, lon=148.26023355830466}
+Point{id=id1349, cat=RESTAURANT, lat=-34.04157087906721, lon=148.042605960554}
+Point{id=id1418, cat=RESTAURANT, lat=-34.05102266902006, lon=147.771564077243}
+Point{id=id85, cat=RESTAURANT, lat=-34.02536537982648, lon=144.9418007586598}
+Point{id=id780, cat=RESTAURANT, lat=-34.05130645707744, lon=149.43207346341745}
+Point{id=id348, cat=RESTAURANT, lat=-34.12465667336844, lon=147.06984130824483}
+Point{id=id1124, cat=RESTAURANT, lat=-34.07476180283202, lon=144.32742529861778}
+Point{id=id1314, cat=RESTAURANT, lat=-34.02120118531332, lon=142.98326235082322}
+Point{id=id1435, cat=RESTAURANT, lat=-34.14741114579691, lon=148.72665943397362}
+
+		Search Time = 0.004798967 sec
+
